@@ -1,5 +1,4 @@
 -- FILE 5: TAO BANG CHUYEN TAU VA 30 CHUYEN MAU
--- Chay sau cac file 01 den 04.
 -- Lich chay va gia trong file nay la du lieu mau de kiem thu.
 
 USE TrainTicketDB;
